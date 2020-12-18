@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Todo/static/css/main.66e83033.chunk.css",
+    "main.js": "/Todo/static/js/main.3e42d7a9.chunk.js",
+    "main.js.map": "/Todo/static/js/main.3e42d7a9.chunk.js.map",
+    "runtime-main.js": "/Todo/static/js/runtime-main.3cb3d840.js",
+    "runtime-main.js.map": "/Todo/static/js/runtime-main.3cb3d840.js.map",
+    "static/css/2.f79a9d3a.chunk.css": "/Todo/static/css/2.f79a9d3a.chunk.css",
+    "static/js/2.353f0ac7.chunk.js": "/Todo/static/js/2.353f0ac7.chunk.js",
+    "static/js/2.353f0ac7.chunk.js.map": "/Todo/static/js/2.353f0ac7.chunk.js.map",
+    "static/js/3.ec47d383.chunk.js": "/Todo/static/js/3.ec47d383.chunk.js",
+    "static/js/3.ec47d383.chunk.js.map": "/Todo/static/js/3.ec47d383.chunk.js.map",
+    "index.html": "/Todo/index.html",
+    "static/css/2.f79a9d3a.chunk.css.map": "/Todo/static/css/2.f79a9d3a.chunk.css.map",
+    "static/css/main.66e83033.chunk.css.map": "/Todo/static/css/main.66e83033.chunk.css.map",
+    "static/js/2.353f0ac7.chunk.js.LICENSE.txt": "/Todo/static/js/2.353f0ac7.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/Todo/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cb3d840.js",
+    "static/css/2.f79a9d3a.chunk.css",
+    "static/js/2.353f0ac7.chunk.js",
+    "static/css/main.66e83033.chunk.css",
+    "static/js/main.3e42d7a9.chunk.js"
+  ]
+}
